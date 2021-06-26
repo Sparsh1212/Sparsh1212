@@ -1,3 +1,4 @@
+[![Sparsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sparsh1212&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Hi there 👋
 ## I am Sparsh Agrawal
 ![](https://visitor-badge.glitch.me/badge?page_id=Sparsh1212.Sparsh1212)
