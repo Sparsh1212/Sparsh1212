@@ -18,6 +18,7 @@ let aboutME = {
     architecture: ["BLoC pattern", "Single page applications"],
 };
 ```
+<br />
  
 [![Gmail Badge](https://img.shields.io/badge/sparshagrawal1212@gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sparshagrawal1212@gmail.com)](mailto:sparshagrawal1212@gmail)
 [![Linkedin Badge](https://img.shields.io/badge/-Sparsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sparsh-agrawal-320050199/)](https://www.linkedin.com/in/sparsh-agrawal-320050199/)
