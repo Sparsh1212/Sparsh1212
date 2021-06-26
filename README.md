@@ -11,6 +11,17 @@
 <br />
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sparsh1212&theme=nord&row=1&margin-w=25" /></div>
   <br />
+  <br />
+  
+```javascript
+const aboutME = {
+    code: ["Dart", "Kotlin", "Javascript", "Python", "C++"],
+    askMeAbout: ["App dev", "Web dev", "Static Analysis", "Scripting", "Music"],
+    architecture: ["BLoC pattern", "Single page applications"],
+};
+```
+  <br />
+
   <div align="center"><img width="800" height="250" src="http://github-readme-streak-stats.herokuapp.com?user=Sparsh1212&theme=vue-dark&hide_border=true" /></div>
 
 
