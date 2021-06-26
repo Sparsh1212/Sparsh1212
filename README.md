@@ -2,7 +2,7 @@
   <div align="center">
   <table>
   <tr><td><img width="650" src="https://github-readme-stats.vercel.app/api?username=Sparsh1212&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sparsh's GitHub Stats" /></td>
-  <td><img width="350" height="250" src="https://media.tenor.com/images/edf198eb7871681c22d3a65bd3438894/tenor.gif"/>  
+  <td><img width="350" height="250" src="https://media1.tenor.com/images/1ae2e1b1b3f6208588e7d3c3dcabd3f0/tenor.gif?itemid=14010419"/>  
   </table>
     <br />
   </div>
