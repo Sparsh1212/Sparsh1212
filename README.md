@@ -12,7 +12,7 @@
 <br />
   
 ```javascript
-const aboutME = {
+let aboutME = {
     code: ["Dart", "Kotlin", "Javascript", "Python", "C++"],
     askMeAbout: ["Flutter", "Web dev", "Kotlin/Java App dev", "Static Analysis", "Scripting", "Music"],
     architecture: ["BLoC pattern", "Single page applications"],
