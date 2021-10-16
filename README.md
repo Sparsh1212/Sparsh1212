@@ -14,8 +14,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/Sparsh1212.svg?style=social&label=Follow)](https://github.com/Sparsh1212?tab=followers)
   
   <br />
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sparsh1212&theme=nord&row=1&margin-w=25" /></div>
-  <br />
  <table>
    <td><img width="500" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh1212&langs_count=5" /></td>
 <td><img width="500" height="300" src="http://github-readme-streak-stats.herokuapp.com?user=Sparsh1212&theme=vue-dark&hide_border=true" /></td>
